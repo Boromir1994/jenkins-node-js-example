@@ -1,7 +1,7 @@
- const isUserExists = () => {
-    return true;
-}
+const isUserExists = () => {
+  return true;
+};
 
-module.exports  = {
-    isUserExists
-}
+module.exports = {
+  isUserExists,
+};
